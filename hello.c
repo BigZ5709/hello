@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Zaiden De La O!\n");
+  printf("Undeclared Major!\n");
 
   return 0;
 
